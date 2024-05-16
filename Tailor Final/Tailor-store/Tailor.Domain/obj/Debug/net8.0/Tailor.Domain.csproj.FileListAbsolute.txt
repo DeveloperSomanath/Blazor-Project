@@ -1,0 +1,12 @@
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\bin\Debug\net8.0\Tailor.Domain.deps.json
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\bin\Debug\net8.0\Tailor.Domain.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\bin\Debug\net8.0\Tailor.Domain.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.csproj.AssemblyReference.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.AssemblyInfoInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.AssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\refint\Tailor.Domain.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\Tailor.Domain.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Domain\obj\Debug\net8.0\ref\Tailor.Domain.dll

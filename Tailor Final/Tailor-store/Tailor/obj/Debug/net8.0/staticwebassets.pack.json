@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tailor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tailor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\SlideShow\\d1.jpg",
+      "PackagePath": "staticwebassets\\images\\SlideShow\\d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\SlideShow\\d2.jpg",
+      "PackagePath": "staticwebassets\\images\\SlideShow\\d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\SlideShow\\d3.jpg",
+      "PackagePath": "staticwebassets\\images\\SlideShow\\d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\SlideShow\\d4.jpg",
+      "PackagePath": "staticwebassets\\images\\SlideShow\\d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\SlideShow\\d6.jpg",
+      "PackagePath": "staticwebassets\\images\\SlideShow\\d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\demo\\cart.png",
+      "PackagePath": "staticwebassets\\images\\demo\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\demo\\edit-product.png",
+      "PackagePath": "staticwebassets\\images\\demo\\edit-product.png"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\demo\\get-products.png",
+      "PackagePath": "staticwebassets\\images\\demo\\get-products.png"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\demo\\home-books.png",
+      "PackagePath": "staticwebassets\\images\\demo\\home-books.png"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\orders\\confirmed.png",
+      "PackagePath": "staticwebassets\\images\\orders\\confirmed.png"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\orders\\payment.png",
+      "PackagePath": "staticwebassets\\images\\orders\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\19087cb4-a4c5-4915-841b-ba30c8207ac7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\19087cb4-a4c5-4915-841b-ba30c8207ac7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\1d258c55-efe4-4915-a293-9d918ce3508a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1d258c55-efe4-4915-a293-9d918ce3508a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\36995661-4097-42d3-b897-12ba749d10d2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\36995661-4097-42d3-b897-12ba749d10d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\39d1dac4-e09d-4d29-9af2-45696c5e23c3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\39d1dac4-e09d-4d29-9af2-45696c5e23c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\426c97ee-2d24-401c-9c12-1c8dca5b1317.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\426c97ee-2d24-401c-9c12-1c8dca5b1317.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\4dca90aa-7e9c-4756-bf6b-c020a1728d9b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4dca90aa-7e9c-4756-bf6b-c020a1728d9b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\6626ca37-6e94-4a28-ae57-742ba0ec23e6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6626ca37-6e94-4a28-ae57-742ba0ec23e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\6e16025d-951a-492d-86c3-5936c2d910fc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6e16025d-951a-492d-86c3-5936c2d910fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\8083c302-e674-4936-b2fb-6e1b9687ed16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8083c302-e674-4936-b2fb-6e1b9687ed16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\9dc9f0ec-911d-47a7-b0e4-bf0ce5e8d45f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9dc9f0ec-911d-47a7-b0e4-bf0ce5e8d45f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\a70543f0-9cb5-4223-9c03-a16464780549.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a70543f0-9cb5-4223-9c03-a16464780549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\b088401b-06ec-4248-bdfe-a1aa4276debe.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b088401b-06ec-4248-bdfe-a1aa4276debe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\b6dfd088-1c3d-4066-9216-bdc812bf6ad8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b6dfd088-1c3d-4066-9216-bdc812bf6ad8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\be57a704-f35c-47e7-a1a8-c97dbad5fccc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\be57a704-f35c-47e7-a1a8-c97dbad5fccc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\images\\products\\e4dc4b00-c609-4e00-ae38-153e3ef835c3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e4dc4b00-c609-4e00-ae38-153e3ef835c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\js\\qr.js",
+      "PackagePath": "staticwebassets\\js\\qr.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\qrcode"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\README.md",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\index-svg.html",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\index-svg.html"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\index.html",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\index.svg",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\index.svg"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\qrcode.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\qrcode.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\lib\\qrcode\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\lib\\qrcode\\qrcode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\templates\\email\\ConfirmAcountRegister.html",
+      "PackagePath": "staticwebassets\\templates\\email\\ConfirmAcountRegister.html"
+    },
+    {
+      "Id": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Tailor\\wwwroot\\templates\\email\\style.css",
+      "PackagePath": "staticwebassets\\templates\\email\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tailor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tailor.props",
+      "PackagePath": "build\\Tailor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tailor.props",
+      "PackagePath": "buildMultiTargeting\\Tailor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tailor.props",
+      "PackagePath": "buildTransitive\\Tailor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

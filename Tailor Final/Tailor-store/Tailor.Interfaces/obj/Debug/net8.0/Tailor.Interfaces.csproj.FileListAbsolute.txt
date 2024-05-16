@@ -1,0 +1,15 @@
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\bin\Debug\net8.0\Tailor.Interfaces.deps.json
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\bin\Debug\net8.0\Tailor.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\bin\Debug\net8.0\Tailor.Interfaces.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\bin\Debug\net8.0\Tailor.Domain.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\bin\Debug\net8.0\Tailor.Domain.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.AssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.I.8DDCB214.Up2Date
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\refint\Tailor.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\Tailor.Interfaces.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\Tailor-store\Tailor.Interfaces\obj\Debug\net8.0\ref\Tailor.Interfaces.dll

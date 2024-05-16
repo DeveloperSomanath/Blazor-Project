@@ -1,0 +1,31 @@
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Interfaces.deps.json
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Interfaces.pdb
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Domain.dll
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Domain.pdb
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.AssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.sourcelink.json
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.In.E0874F4C.Up2Date
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\refint\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.pdb
+C:\Users\Manjunath\Desktop\Tailor\Book-Tailor\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\ref\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Interfaces.deps.json
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Interfaces.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Domain.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\bin\Debug\net8.0\Books.Domain.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.AssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.In.E0874F4C.Up2Date
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\refint\Books.Interfaces.dll
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\Books.Interfaces.pdb
+C:\Users\Manjunath\Desktop\Tailor\Tailor Final\ecommerce-books-store\Books.Interfaces\obj\Debug\net8.0\ref\Books.Interfaces.dll

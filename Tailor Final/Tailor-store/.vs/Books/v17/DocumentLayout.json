@@ -1,0 +1,1022 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6423FE5-D660-429C-80E0-643E471F8D4B}|Books.Interfaces\\Tailor.Interfaces.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.interfaces\\tailor.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6423FE5-D660-429C-80E0-643E471F8D4B}|Books.Interfaces\\Tailor.Interfaces.csproj|solutionrelative:books.interfaces\\tailor.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Tailor.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\tailor.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Tailor.Domain.csproj|solutionrelative:books.domain\\tailor.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Tailor.Data.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.data\\tailor.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Tailor.Data.csproj|solutionrelative:books.data\\tailor.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Tailor.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\tailor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Tailor.csproj|solutionrelative:books\\tailor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_slideshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_slideshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_stylesheetpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_stylesheetpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253A63E8-69DE-4FF8-B9A7-FFDBBF66C03B}|Books\\Books.csproj|solutionrelative:books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.data\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|solutionrelative:books.data\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.data\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|solutionrelative:books.data\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|solutionrelative:books.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|solutionrelative:books.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.data\\persistencecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679ACFFD-99DD-4CBE-8498-833B3418C484}|Books.Data\\Books.Data.csproj|solutionrelative:books.data\\persistencecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\orderheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\orderheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\coverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\coverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\profiles\\dtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\profiles\\dtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\emailsendersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\emailsendersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\allowedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\allowedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\arrivaldate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\arrivaldate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\customuserclaimsprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\customuserclaimsprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\facebooksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\facebooksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\googlesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\googlesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\maxfilesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\maxfilesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\rabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\rabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\utilities\\twiliosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\utilities\\twiliosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|c:\\users\\manjunath\\desktop\\tailor\\tailor final\\tailor-store\\books.domain\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B40967-EEBA-471B-8838-2767788B5119}|Books.Domain\\Books.Domain.csproj|solutionrelative:books.domain\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tailor.Domain",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Tailor.Domain.csproj",
+              "RelativeDocumentMoniker": "Books.Domain\\Tailor.Domain.csproj",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Tailor.Domain.csproj",
+              "RelativeToolTip": "Books.Domain\\Tailor.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T15:57:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tailor.Data",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Tailor.Data.csproj",
+              "RelativeDocumentMoniker": "Books.Data\\Tailor.Data.csproj",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Tailor.Data.csproj",
+              "RelativeToolTip": "Books.Data\\Tailor.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T15:57:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tailor",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Tailor.csproj",
+              "RelativeDocumentMoniker": "Books\\Tailor.csproj",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Tailor.csproj",
+              "RelativeToolTip": "Books\\Tailor.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T15:57:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Books\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Books\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:56:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "Books\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "Books\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:56:08.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:54:13.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:54:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.Interfaces",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Interfaces\\Tailor.Interfaces.csproj",
+              "RelativeDocumentMoniker": "Books.Interfaces\\Tailor.Interfaces.csproj",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Interfaces\\Tailor.Interfaces.csproj",
+              "RelativeToolTip": "Books.Interfaces\\Tailor.Interfaces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T15:44:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:54:07.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:54:01.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_SlideShow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_SlideShow.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_SlideShow.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_SlideShow.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_SlideShow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:53:56.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_StylesheetPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_StylesheetPartial.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_StylesheetPartial.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_StylesheetPartial.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_StylesheetPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:53:52.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:53:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Books\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:53:37.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Books\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:53:34.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Books\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Books\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:53:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T15:53:24.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\appsettings.json",
+              "RelativeDocumentMoniker": "Books\\appsettings.json",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\appsettings.json",
+              "RelativeToolTip": "Books\\appsettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T15:53:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Program.cs",
+              "RelativeDocumentMoniker": "Books\\Program.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books\\Program.cs",
+              "RelativeToolTip": "Books\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:52:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Persistence\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Books.Data\\Persistence\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Persistence\\DbInitializer.cs",
+              "RelativeToolTip": "Books.Data\\Persistence\\DbInitializer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:50:36.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Persistence\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Books.Data\\Persistence\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Persistence\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Books.Data\\Persistence\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:50:31.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Books.Data\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Books.Data\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:50:21.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Books.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Books.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:50:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersistenceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\PersistenceContainer.cs",
+              "RelativeDocumentMoniker": "Books.Data\\PersistenceContainer.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Data\\PersistenceContainer.cs",
+              "RelativeToolTip": "Books.Data\\PersistenceContainer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:50:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:39.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cover.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Cover.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\Cover.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Cover.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\Cover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:32.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:29.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\OrderHeader.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\OrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:22.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Books.Domain\\Entities\\ShoppingCart.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:18.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShoppingCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\ShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\ShoppingCartDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\ShoppingCartDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\ShoppingCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:49:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:51.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\OrderHeaderDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\OrderHeaderDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\OrderHeaderDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\OrderHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\OrderDetailDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\OrderDetailDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\OrderDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CoverDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\CoverDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\CoverDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\CoverDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\CoverDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\CompanyDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:44.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\AuthorDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\ApplicationUserDto.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Profiles\\Dtos\\ApplicationUserDto.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Profiles\\Dtos\\ApplicationUserDto.cs",
+              "RelativeToolTip": "Books.Domain\\Profiles\\Dtos\\ApplicationUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:31.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AllowedExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\AllowedExtensions.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\AllowedExtensions.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\AllowedExtensions.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\AllowedExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ArrivalDate.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\ArrivalDate.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\ArrivalDate.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\ArrivalDate.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\ArrivalDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomUserClaimsPrincipalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\CustomUserClaimsPrincipalFactory.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\CustomUserClaimsPrincipalFactory.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\CustomUserClaimsPrincipalFactory.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\CustomUserClaimsPrincipalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:48:09.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\EmailSender.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\EmailSender.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:52.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailSenderSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\EmailSenderSettings.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\EmailSenderSettings.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\EmailSenderSettings.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\EmailSenderSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FacebookSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\FacebookSettings.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\FacebookSettings.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\FacebookSettings.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\FacebookSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GoogleSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\GoogleSettings.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\GoogleSettings.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\GoogleSettings.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\GoogleSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MaxFileSize.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\MaxFileSize.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\MaxFileSize.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\MaxFileSize.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\MaxFileSize.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:20.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Rabat.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Rabat.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\Rabat.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Rabat.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\Rabat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:09.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Roles.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\Roles.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Roles.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:05.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Session.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\Session.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Session.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Status.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\Status.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\Status.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:46:59.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\StripeSettings.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\StripeSettings.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\StripeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:46:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TwilioSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\TwilioSettings.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\Utilities\\TwilioSettings.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\Utilities\\TwilioSettings.cs",
+              "RelativeToolTip": "Books.Domain\\Utilities\\TwilioSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:46:02.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "Books.Domain\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:45:51.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "Books.Domain\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:45:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Books.Domain\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:45:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "Books.Domain\\ViewModels\\ShoppingCartViewModel.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\Tailor\\Tailor Final\\Tailor-store\\Books.Domain\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "Books.Domain\\ViewModels\\ShoppingCartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:45:28.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
