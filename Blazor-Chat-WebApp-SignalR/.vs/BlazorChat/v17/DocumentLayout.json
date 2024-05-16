@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manjunath\\Desktop\\TestingPurpose\\signalr blazor\\chat\\Blazor-Chat-WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932F87D0-ABE9-45C4-B1E4-1CE1480E5B29}|BlazorChat.API\\BlazorChat.API.csproj|c:\\users\\manjunath\\desktop\\testingpurpose\\signalr blazor\\chat\\blazor-chat-webapp\\blazorchat.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F87D0-ABE9-45C4-B1E4-1CE1480E5B29}|BlazorChat.API\\BlazorChat.API.csproj|solutionrelative:blazorchat.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7EF9D-799C-47CB-A19F-22AE8792A685}|BlazorChat.Client\\BlazorChat.Client.csproj|c:\\users\\manjunath\\desktop\\testingpurpose\\signalr blazor\\chat\\blazor-chat-webapp\\blazorchat.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5F7EF9D-799C-47CB-A19F-22AE8792A685}|BlazorChat.Client\\BlazorChat.Client.csproj|solutionrelative:blazorchat.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\TestingPurpose\\signalr blazor\\chat\\Blazor-Chat-WebApp\\BlazorChat.API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "BlazorChat.API\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\TestingPurpose\\signalr blazor\\chat\\Blazor-Chat-WebApp\\BlazorChat.API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "BlazorChat.API\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:53:08.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Users\\Manjunath\\Desktop\\TestingPurpose\\signalr blazor\\chat\\Blazor-Chat-WebApp\\BlazorChat.Client\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "BlazorChat.Client\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Users\\Manjunath\\Desktop\\TestingPurpose\\signalr blazor\\chat\\Blazor-Chat-WebApp\\BlazorChat.Client\\Pages\\Chat.razor",
+              "RelativeToolTip": "BlazorChat.Client\\Pages\\Chat.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:48:48.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
